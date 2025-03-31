@@ -1,0 +1,6 @@
+streamlit>=1.32.0
+python-dotenv>=1.0.0
+pandas # Example, if you use pandas
+numpy  # Example, if you use numpy
+matplotlib # <-- Make sure this line exists!
+# Add any other libraries your app imports

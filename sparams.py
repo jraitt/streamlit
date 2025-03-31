@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import math # Import math for checking isnan
 
 # --- Core Calculation Logic (adapted from Flask version) ---
-
+#Comment
 def calculate_poles_and_params(omega_n, zeta):
     """Calculates pole locations and related parameters."""
     # Ensure inputs are valid numbers, default to safe values if not
